@@ -6,13 +6,32 @@
 Добро пожаловать в учебный архив материалов, которые я произвёл, собрал и нашёл во время обучения в Новосибирском Государственном Университете на Факультете информационных технологий, Программная инженерия и компьютерные науки. Надеюсь, вы найдёте это полезным и интересным!
 ## 1 курс
 ## 2 курс
+### 🎲 Теория вероятности и математическая статистика
+✒️ [Разбор опроса С.Е. Хрущёва](https://drive.google.com/file/d/1fHtNjh66gXaON8ePHnhRN8JmNrGYlU6Q/view?usp=sharing)
+
+✒️ [Все определения по курсу](https://drive.google.com/file/d/1AsX-bj6_yoWBY3Ei0xuOgMjmAfHgYp8J/view?usp=sharing)
+
+✒️ [ГДЗ по ТВиМСу](https://drive.google.com/file/d/1aGMHK4OO7Cg4tdn10shElxy9CqBvZ6tb/view?usp=sharing)
+
+📚 [В.И. Лотов ТВиМС (с рабочим поиском по файлу)](https://drive.google.com/file/d/1bunbVDKaX0KE9Mif2lXw4czLaKhu8oKQ/view?usp=sharing)
+
+📚 [Чернова Н.И. Теория вероятностей (light-версия)](https://drive.google.com/file/d/1JISW64knYJhDfI2tJsXRz0cFO5x1ccii/view?usp=sharing)
+
+📚 [Чернова Н. И. Теория Вероятностей (hard-версия)](https://drive.google.com/file/d/1OZjlIFNUm_zwHllgOVCjXX-egQcJKzRm/view?usp=sharing)
+
+📚 [Чернова Н.И. Матстат (light-версия)](https://drive.google.com/file/d/1mNwVZyUYsAhKMImn68zb1XJT6D2gOymJ/view?usp=sharing)
+
+📚 [Чернова Н.И. Матстат, ММФ (hard-версия)](https://drive.google.com/file/d/1iLs6oLaxatB4xp5brndMNqFTK-_sNh0T/view?usp=sharing)
+
+📚 [В.Е. Гмурман ТВиМС (доступная книжка с хорошими пояснениями)](https://drive.google.com/file/d/1eqBnGOenvbqxJ_lDJhPF5BztBvd20VZ2/view?usp=sharing)
+
 ## 3 курс
 ### 📈 Вычислительная математика
 📚 [Ковыркина О.А., Остапенко В.В., Фроловская О.А. Введение в теорию разностных схем](https://drive.google.com/file/d/13IJ3jqKtOwYfvRTInD5F1QJTWoZECBzh/view?usp=sharing)
 
 📚 [Компактная аппроксимация дифференциальных уравнений, содержащих одну производную](https://drive.google.com/file/d/1bdprQ2eTO6N2X8xtCfEu0zd-VY9QYRl_/view?usp=sharing)
 
-💻 [Репа с лабами О. А. Ковыркиной](https://github.com/sckwokyboom/Computational-Math-Labs)
+💻 [Репа с лабами О.А. Ковыркиной](https://github.com/sckwokyboom/Computational-Math-Labs)
 
 ✒️ [Разбор метода прогонки](https://drive.google.com/file/d/1FCw8KYH_pT3Uez8E0oQsLwWwRlOfaqis/view?usp=sharing)
 ***
