@@ -38,9 +38,9 @@
 ### 🔌 Электротехника
 👀 [Полезные ссылки на статьи и видеоматериалы](https://drive.google.com/file/d/1uoI33V23k-1WQAYhD86ad5i4yTS4Trtk/view?usp=sharing)
 
-📝 [Записи семинаров Б.Н. Соломатина](https://drive.google.com/file/d/1DewsjLc1RTZ2D6vRhOf8EW8DBrwEoaSU/view?usp=sharing) _(автор Сергей Петров)_
+📝 [Записи семинаров Б.Н. Соломатина](https://drive.google.com/file/d/1DewsjLc1RTZ2D6vRhOf8EW8DBrwEoaSU/view?usp=sharing) _(автор: [Сергей Петров](https://github.com/ptrvsrg))_
 
-📝 [Записи семинаров К.М. Горчакова](https://drive.google.com/file/d/1bQMDFHW7UhzNL8z8ThVzeK2L4zd_fu2Z/view?usp=sharing) _(автор Олеся Пальчунова)_
+📝 [Записи семинаров К.М. Горчакова](https://drive.google.com/file/d/1bQMDFHW7UhzNL8z8ThVzeK2L4zd_fu2Z/view?usp=sharing) _(автор: Олеся Пальчунова)_
 
 📝 [Расписанные билеты](https://drive.google.com/file/d/1UWIB4h3vGEM9rUSusU9WVFw4b-tmONUn/view?usp=sharing)
 
@@ -54,4 +54,8 @@
 ### 📡 Сетевые технологии
 💻 [Репа с частью лаб](https://github.com/sckwokyboom/Network-Technologies-Labs)
 
-👀 [Курс видосов по основам сетей](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
+📝 [Разбор экзаменационных вопросов](https://drive.google.com/file/d/1mP4sdmM_nBNadYxwCYy7ely_rpCDICBj/view?usp=sharing) _(автор неизвестен)_
+
+👀 [Курс видео по основам сетей](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
+
+👀 [Курс видео про защищённые сетевые протоколы](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv)
