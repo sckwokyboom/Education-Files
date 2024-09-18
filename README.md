@@ -104,6 +104,18 @@ _Ремарка: На хорошую книжку по основам ООП в�
 
 📚 [В.Е. Гмурман ТВиМС (доступная книжка с хорошими пояснениями)](https://drive.google.com/file/d/1eqBnGOenvbqxJ_lDJhPF5BztBvd20VZ2/view?usp=sharing)
 
+## ☠️ ДУиТФКП
+
+📚✒️ [Полный архив смертника](https://drive.google.com/drive/folders/1q--m8GYApWhfjmfIbNuT2Pela5EdnWE6?usp=sharing)
+
+✒️ [Определния по дифференциальным уравнениям](https://drive.google.com/file/d/1ATIjUIhzX0u38FKrXv8ZhK4IzHot0NCm/view?usp=sharing)
+
+✒️ [Определния по ТФКП](https://drive.google.com/file/d/1aZE6AejJFRtDWaofz8L9hEGSpfiTCH_q/view?usp=sharing)
+
+📚 [Билеты с экза](https://drive.google.com/drive/folders/1fH5Tzk3bmCsc_KI-XXDx7Y-I2KBYJLVR?usp=sharing)
+
+📚 [Ресёрчи-книги по ТФКП](https://drive.google.com/drive/folders/1uotpwo-LwFd-G3gpM2Ge8ar1pXWHNADv?usp=sharing) _(какие-то книжки по ТФКП, которые, возможно, пригодятся, если вы встряли на чём-то и сходу ответ не нашли)_
+
 ***
 # 3 курс
 🏆 [Таблица с отзывами на все экзамены за 2024](https://docs.google.com/spreadsheets/d/1f7Ul7q0BK61sFfOVHNRiad904Ts8MQDXsimatGEt5S4/edit#gid=2004089442)
