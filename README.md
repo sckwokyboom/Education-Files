@@ -15,10 +15,14 @@
 
 ## ☠️ ДГМА
 
+✒️ [Все определения по курсу](https://drive.google.com/file/d/1EB9VrpXm2za9ITru3jl3dCVsUnv2UwaE/view?usp=sharing) _(это всё обязательно нужно знать к экзамену)_
+
 ✒️📚 [Полный архив смертника](https://drive.google.com/drive/folders/11PndfPaxXmyG4LkNCAPM_ikOUhu5SgqV?usp=sharing)
 _(в нём книжки Бутузова и всякие разборы)_
 
-✒️ [Все определения по курсу](https://drive.google.com/file/d/1EB9VrpXm2za9ITru3jl3dCVsUnv2UwaE/view?usp=sharing)
+👀 [Лекции В.Ф. Бутузова часть 1](https://www.youtube.com/playlist?list=PLcsjsqLLSfNCqt362BPlvI3PH5LlcCk1a)
+
+👀 [Лекции В.Ф. Бутузова часть 2](https://www.youtube.com/playlist?list=PLcsjsqLLSfND4O0ntnAYIJsgYgT0HaVe_)
 
 ## ♐️ Дискретная математика
 ✒️📚 [Полный пакет для печати на экзамен](https://drive.google.com/drive/folders/15ODtIKXfCwS-EEuJQ6mY_HYx-LQSBujV?usp=sharing)
