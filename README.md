@@ -13,7 +13,35 @@
 ***
 
 # 2 курс
+
 🏆 [Таблица с отзывами на все экзамены за 2023](https://docs.google.com/spreadsheets/d/1dhDscJFHIkj6Opth5mK3tTF2Ei3HrhcXnmVZ9eYV8wM/edit?usp=sharing)
+
+## ☠️ ДГМА
+
+✒️📚 [Полный архив смертника](https://drive.google.com/drive/folders/11PndfPaxXmyG4LkNCAPM_ikOUhu5SgqV?usp=sharing)
+_(в нём книжки Бутузова и всякие разборы)_
+
+✒️ [Все определения по курсу](https://drive.google.com/file/d/1EB9VrpXm2za9ITru3jl3dCVsUnv2UwaE/view?usp=sharing)
+
+## ♐️ Дискретная математика
+✒️📚 [Полный пакет для печати на экзамен](https://drive.google.com/drive/folders/15ODtIKXfCwS-EEuJQ6mY_HYx-LQSBujV?usp=sharing)
+
+✒️ [Разбор теоремы Менгера](https://drive.google.com/file/d/1HA2AqfF7ncN3FP-h4QF-dEZJzmp7dDKf/view?usp=sharing)
+
+✒️ [Разбор теоремы об увеличивающей цепи](https://drive.google.com/file/d/1Y5ZJ21AmjBgc7wni4Xtx7yNAA1y4_S4j/view?usp=sharing)
+
+✒️ [Разбор вычисления числа булевых функций без фиктивных переменных](https://drive.google.com/file/d/1oTRmmGPNF0N3FsCyuWUCBbeFma1-D6vF/view?usp=sharing)
+
+✒️ [Алгоритм решения линейных рекуррентных соотношений](https://drive.google.com/file/d/1QguVUmPJ8c7HB_xwikA3grimTbP18fc1/view?usp=sharing)
+
+✒️ [Разбор оценки числа независимости](https://drive.google.com/file/d/1S9TqxZYk7AdAalwn1qwfeSs_42yXXz_e/view?usp=sharing)
+
+✒️ [Разбор теоермы Кёнига, о хроматическом индексе двудольных графов](https://drive.google.com/file/d/1izBneToF_wcl2l5isDN3qH_lAFFob2To/view?usp=sharing)
+
+📚 [В.А. Емеличев Лекции по теории графов](https://drive.google.com/file/d/1_fdyxF0z6O5LgEHGhElOmeiGtjEW4WPq/view?usp=sharing) _(отличная книжка по графам, просто легендарная)_
+
+📚 [Ресёрч-книги по различным темам](https://drive.google.com/drive/folders/14mdBDODINeYrb8hm0ihsmKZrJmKY4csU?usp=sharing) _(это имеет смысл использовать, если вы встряли на каком-то вопросе и не знаете, где искать ответ)_
+
 
 ## 🎲 Теория вероятности и математическая статистика
 
