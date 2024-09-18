@@ -8,9 +8,6 @@
 ***
 
 📺 [Видеозаписи почти всех лекций](https://docs.google.com/document/d/1e_ZcP-Y6xyvuVTZhEXEF-hSO0Kunb9gHNaP6VgQB224/edit)
-# 1 курс
-
-***
 
 # 2 курс
 
