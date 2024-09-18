@@ -144,7 +144,7 @@ _Ремарка: На хорошую книжку по основам ООП в�
 
 📚 [Большущая подробная практическая книга про операционные усилители](https://drive.google.com/file/d/1Bu_7yGoYJwp62DG1ghU6AuWOgAYw534N/view?usp=sharing)
 
-📝 [Записи семинаров Б.Н. Соломатина и К.М. Горчакова где-то в глубинах](https://drive.google.com/drive/folders/1gFXQQGLAunpWYN_eYknD5rbvC6pmiauz?usp=sharing)
+📝📚 [Полный пакет](https://drive.google.com/drive/folders/1gFXQQGLAunpWYN_eYknD5rbvC6pmiauz?usp=sharing)
 
 ## 📡 Сетевые технологии
 
