@@ -138,15 +138,13 @@ _Ремарка: На хорошую книжку по основам ООП в�
 
 👀 [Полезные ссылки на статьи и видеоматериалы](https://drive.google.com/file/d/1uoI33V23k-1WQAYhD86ad5i4yTS4Trtk/view?usp=sharing)
 
-📝 [Записи семинаров Б.Н. Соломатина](https://drive.google.com/file/d/1DewsjLc1RTZ2D6vRhOf8EW8DBrwEoaSU/view?usp=sharing) _(автор: [Сергей Петров](https://github.com/ptrvsrg))_
-
-📝 [Записи семинаров К.М. Горчакова](https://drive.google.com/file/d/1bQMDFHW7UhzNL8z8ThVzeK2L4zd_fu2Z/view?usp=sharing) _(автор: Олеся Пальчунова)_
-
 📝 [Расписанные билеты](https://drive.google.com/file/d/1UWIB4h3vGEM9rUSusU9WVFw4b-tmONUn/view?usp=sharing)
 
 📚 [Небольшая глава про операционные усилители](https://drive.google.com/file/d/1ZbGj9Ag8Kc9sg2HwzIX053wqLeeL8gVw/view?usp=sharing)
 
 📚 [Большущая подробная практическая книга про операционные усилители](https://drive.google.com/file/d/1Bu_7yGoYJwp62DG1ghU6AuWOgAYw534N/view?usp=sharing)
+
+📝 [Записи семинаров Б.Н. Соломатина и К.М. Горчакова где-то в глубинах](https://drive.google.com/drive/folders/1gFXQQGLAunpWYN_eYknD5rbvC6pmiauz?usp=sharing)
 
 ## 📡 Сетевые технологии
 
