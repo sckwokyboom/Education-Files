@@ -155,3 +155,12 @@ _Ремарка: На хорошую книжку по основам ООП в�
 👀 [Курс видео по основам сетей](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
 
 👀 [Курс видео про защищённые сетевые протоколы](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv)
+
+***
+# 4 курс
+
+## 🛡 Защита информации
+📝 [Лабы, тесты](https://drive.google.com/drive/folders/1zVeT8b_qqGQIpe-HLlmYE4U3tjQIhbr2?usp=sharing)
+
+## 🔌 ОБЖ/БЖД
+📝 [Тест](https://drive.google.com/file/d/1Xq7DnPiF5zC377MScNhA0fZWYg5zO-CJ/view?usp=sharing)
